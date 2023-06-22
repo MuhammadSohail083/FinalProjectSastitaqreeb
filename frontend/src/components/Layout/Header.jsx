@@ -175,7 +175,6 @@ const Header = ({ activeHeading }) => {
                 </span>
               </div>
             </div>
-{/* <div>hhhhhhhe</div> */}
             <div className={`${styles.noramlFlex}`}>
               <div className="relative cursor-pointer mr-[15px]">
                 {!isAuthenticated ? (
